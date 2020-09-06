@@ -1,0 +1,6 @@
+{
+    "name" : "Development JSON",
+    "mail" : {
+        "host" : "dev-mail-server"
+    }
+}
